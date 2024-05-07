@@ -9,6 +9,11 @@ langchain = "*"
 python-dotenv = "*"
 langchain-openai = "*"
 huggingface-hub = "*"
+streamlit = "*"
+streamlit-chat = "*"
+langchain-experimental = "*"
+pandas = "*"
+tabulate = "*"
 
 [dev-packages]
 
